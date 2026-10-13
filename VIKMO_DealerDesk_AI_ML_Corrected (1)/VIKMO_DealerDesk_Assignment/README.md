@@ -71,5 +71,5 @@ The smoke test exercises the contract basics. It is not a substitute for testing
 
 - Track: AI / ML intern
 - Optional parts attempted: order lifecycle/idempotency are also implemented; supplier sync and frontend are not claimed.
-- Five-minute unlisted walkthrough: **add your own video link before submission**.
-- Public GitHub repository: **publish this repository yourself before submission**.
+- Five-minute unlisted walkthrough: (https://drive.google.com/file/d/1wzvVMoEf4UwLgidVjJLKa40Jz44iu6rj/view?usp=drive_link)
+
